@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💟
 
-Meu nome é Caroleina 
+Meu nome é CaRibeiro
 
 - Estou estudando na [Alura](http://www.alura.com
 - Estou me desenvolvendo na linguagem JavaScript
